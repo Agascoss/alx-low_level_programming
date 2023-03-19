@@ -1,0 +1,14 @@
+
+te.c:10:2: warning: implicit declaration of function ‘write’; did you mean ‘fwrite’? [-Wimplicit-function-declaration]
+   10 |  write(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+      |  ^~~~~
+      |  fwritelisk
+te.c:10:9: warning: passing argument 1 of ‘printf’ makes pointer from integer without a cast [-Wint-conversion]
+   10 |  printf(2, "and that piece of art is useful\" - Dora Korpar, 2015-10-19\n");
+      |         ^
+      |         |
+      |         int
+In file included from 101-quote.c:1:
+/usr/include/stdio.h:332:43: note: expected ‘const char * restrict’ but argument is of type ‘int’
+  332 | extern int printf (const char *__restrict __format, ...);
+      |                    ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~i1
