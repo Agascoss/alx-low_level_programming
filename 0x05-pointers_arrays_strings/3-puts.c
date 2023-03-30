@@ -1,6 +1,8 @@
 #include "main.h"
 
 /**
+ * _putchar - function called
+ *
  * _puts - print a string
  *
  * @str: pointer of the string
