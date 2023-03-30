@@ -1,7 +1,11 @@
 #include "main.h"
 
 /**
- * print_rev - reverse print
+ * _putchar - called function
+ *
+ * @c: putchar parameter
+ *
+ * print_rev - reverse printing string
  *
  * @s: pointer to be revesed
  *
