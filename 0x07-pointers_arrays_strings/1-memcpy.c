@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * _memcpy - Copies a specified number of bytes from one memory location to another.
+ * _memcpy - Copies specified number of bytes in 1  memory location to another.
  *
  * @dest: Pointer to the destination  memory location.
  *
