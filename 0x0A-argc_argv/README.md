@@ -9,7 +9,8 @@
 
 3. Neither irony nor sarcasm is argument (multiplies two numbers)
 
-4. To infinity and beyond
+4. To infinity and beyond (add positive number)
+
 5. Minimal Number of Coins for Change
 
 ###Resource links 
