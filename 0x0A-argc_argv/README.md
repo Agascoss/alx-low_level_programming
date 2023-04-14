@@ -5,8 +5,10 @@
 
 1. Silence is argument carried out by other means (function prints number of argument passed)
 
-2. The best argument against democracy is a five-minute conversation with the average voter
-3. Neither irony nor sarcasm is argument
+2. The best argument against democracy is a five-minute conversation with the average voter (prints all argument received)
+
+3. Neither irony nor sarcasm is argument (multiplies two numbers)
+
 4. To infinity and beyond
 5. Minimal Number of Coins for Change
 
