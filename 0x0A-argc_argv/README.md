@@ -11,7 +11,7 @@
 
 4. To infinity and beyond (add positive number)
 
-5. Minimal Number of Coins for Change
+5. Minimal Number of Coins for Change (prints the minimum number of coins to make change for an amount of money)
 
 ###Resource links 
 https://publications.gbdirect.co.uk//c_book/chapter10/arguments_to_main.html
@@ -24,3 +24,4 @@ https://www.google.com/search?q=unused+variable+C&sxsrf=APwXEdfJZETJctjgXtt1aQJZ
 
 #### My thoughts 
 
+1.It's important to understand that argc represents the number of command-line arguments passed to the program, while argv is an array of strings that contains the actual command-line arguments.
