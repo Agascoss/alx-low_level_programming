@@ -1,0 +1,19 @@
+# 0x12. C - Singly linked lists
+
+##  Tasks 
+Write a function that prints all the elements of a list_t list.
+
+Write a function that returns the number of elements in a linked list_t list.
+
+Write a function that adds a new node at the beginning of a list_t list.
+
+Write a function that adds a new node at the end of a list_t list.
+
+Write a function that frees a list_t list.
+
+Write a function that prints You're beat! and yet, you must allow,\nI bore my house upon my back!\n before the main function is executed.
+
+
+### resource links 
+
+https://www.youtube.com/watch?v=udapt4FGY20&feature=youtu.be&t=2m10s
